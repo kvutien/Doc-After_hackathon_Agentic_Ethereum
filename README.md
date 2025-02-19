@@ -14,7 +14,7 @@ Work program to take advantage of the developments done in the hackathon and to 
 # Improve existing repository
 ## Minor changes in the User Interface
 1. **Button "Learn More"**: Add an internal link to display the parts that are below the splash screen in the welcome page.
-2. **Button "Make an Impact"**: Display a dialog box saying that a function for private donors will be implemented later.
+2. **Button "Make an Impact"**: Add an internal link to display the part below, in section "*Join the Wonderful Life Movement*".
 3. **Button "Start Your Journey"**: Display a dialog box saying that a function for private donors will be implemented later.
 4. **Bottom Bar**: Replace the text "*Revolutionizing humanitarian aid through Al and blockchain technology*" with a slightly different text "*Revolutionizing humanitarian aid through 21st-century technologies*".
 5. **Bottom Bar**: When the cursor hovers above "LinkedIn Profile" and "Twitter Agent", add a tooltip saying "*Not yet implemented*".
