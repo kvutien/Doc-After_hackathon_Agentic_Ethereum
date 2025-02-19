@@ -1,5 +1,6 @@
 # Actions After Hackathon Agentic_Ethereum
 (February 2025)
+
 Work program to take advantage of the developments done in the hackathon and to prepare future ones
 # Executive Summary
 1. **Improve** existing repository: madke it easy to understand by third party readers
