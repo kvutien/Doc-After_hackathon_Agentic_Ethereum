@@ -18,3 +18,6 @@ Work program to take advantage of the developments done in the hackathon and to 
 3. **Button "Start Your Journey"**: Display a dialog box saying that a function for private donors will be implemented later.
 4. **Bottom Bar**: Replace the text "*Revolutionizing humanitarian aid through Al and blockchain technology*" with a slightly different text "*Revolutionizing humanitarian aid through 21st-century technologies*".
 5. **Bottom Bar**: When the cursor hovers above "LinkedIn Profile" and "Twitter Agent", add a tooltip saying "*Not yet implemented*".
+
+## Important changes
+1. **Do embeddings using a LLM**: The current code in `vectorutils.ts` seems to do profile embedding with a hash function insteal of calling the embedding of a LLM
